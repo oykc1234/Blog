@@ -6,31 +6,36 @@
 
 # Publication:
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)  
+*Complete publication list available on Google Scholar*
+
 1. **❶ Escape: an optimization method based on crowd evacuation behaviors**  
    **K Ouyang**, S Fu, Y Chen, Q Cai, AA Heidari, H Chen  
-   *Artificial Intelligence Review* 58(1), 2024
+   *Artificial Intelligence Review* 58(1), 2024  
+   [![DOI](https://img.shields.io/badge/DOI-10.1007/s10462--023--10692--0-blue)](https://doi.org/10.1007/s10462-023-10692-0)
 
-2. **A Generative Adversarial Network-Based Investor Sentiment Indicator: Superior Predictability for the Stock Market**  
+2. **A Generative Adversarial Network-Based Investor Sentiment Indicator**  
    S Qiu, Y Wang, Z Ke, Q Shen, Z Li, R Zhang, **K Ouyang✉**  
    *Mathematics* 13(9), 1476, 2025
 
-3. **Multiple objectives escaping bird search optimization and its application in stock market prediction based on transformer model**  
+3. **Multiple objectives escaping bird search optimization**  
    D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**  
    *Scientific Reports* 15(1), 5730, 2025
 
 4. **❶ Graph Neural Networks Are Evolutionary Algorithms**  
    **K Ouyang**, S Fu  
-   *arXiv preprint* arXiv:2412.17629, 2024
+   *arXiv preprint* arXiv:2412.17629, 2024  
+   [![arXiv](https://img.shields.io/badge/arXiv-2412.17629-b31b1b)](https://arxiv.org/abs/2412.17629)
 
-5. **Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors**  
+5. **Study of nonequilibrium phase transitions mechanisms**  
    YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, KC Ouyang, ...  
    *The European Physical Journal Plus* 137(10), 1-22, 2022
 
-6. **❶ Dynamic Graph Neural Evolution: An Evolutionary Framework Integrating Graph Neural Networks with Adaptive Filtering**  
+6. **❶ Dynamic Graph Neural Evolution**  
    **K Ouyang**, S Fu, Y Chen, H Chen  
    *IEEE Congress on Evolutionary Computation*, 2025
 
-7. **Physical mechanisms of exit dynamics in microchannels of nonequilibrium transport systems**  
+7. **Physical mechanisms of exit dynamics in microchannels**  
    YQ Wang, DS Wei, LW Zhang, TY Zhang, TZ Li, ML Fang, KC Ouyang, ...  
    *International Journal of Modern Physics B* 38(15), 2450193
 
@@ -45,4 +50,4 @@
   <img src="https://github.com/user-attachments/assets/14f71135-bc34-4d5e-8640-7a80938634b0" height="150" style="display: inline-block;">
 </div>
 
-<sub>❶ First author | ✉ Corresponding author</sub>
+<sub>❶ First author | ✉ Corresponding author | [Full Publications](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)</sub>
