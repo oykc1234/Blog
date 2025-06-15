@@ -35,6 +35,7 @@
    *International Journal of Modern Physics B* 38(15), 2450193
 
 ## Publication Gallery
+
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/bc4c89da-826f-4fa2-a391-7be66fb04e85" height="150" style="display: inline-block; margin-right: 10px;">
