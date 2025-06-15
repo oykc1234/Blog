@@ -12,7 +12,6 @@
 1. **❶ Escape: an optimization method based on crowd evacuation behaviors**  
    **K Ouyang**, S Fu, Y Chen, Q Cai, AA Heidari, H Chen  
    *Artificial Intelligence Review* 58(1), 2024  
-   [![DOI](https://img.shields.io/badge/DOI-10.1007/s10462--023--10692--0-blue)](https://doi.org/10.1007/s10462-023-10692-0)
 
 2. **A Generative Adversarial Network-Based Investor Sentiment Indicator**  
    S Qiu, Y Wang, Z Ke, Q Shen, Z Li, R Zhang, **K Ouyang✉**  
@@ -25,7 +24,6 @@
 4. **❶ Graph Neural Networks Are Evolutionary Algorithms**  
    **K Ouyang**, S Fu  
    *arXiv preprint* arXiv:2412.17629, 2024  
-   [![arXiv](https://img.shields.io/badge/arXiv-2412.17629-b31b1b)](https://arxiv.org/abs/2412.17629)
 
 5. **Study of nonequilibrium phase transitions mechanisms**  
    YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, KC Ouyang, ...  
