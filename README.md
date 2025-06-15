@@ -1,4 +1,4 @@
-# Data-Driven EPL(Evolution,Physics,Learning) System Decision-Making
+## <small>Data-Driven EPL (Evolution, Physics, Learning) System Decision-Making</small>
 
 | Evolution | Physics | Learning |
 |-----------|---------|----------|
