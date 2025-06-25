@@ -1,17 +1,14 @@
-## <small>Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making</small>
+## Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making
 
-\[
-\langle \varphi_{\text{DM}} | \ \hat{H}_{\text{EPL}} \ | \varphi_{\text{DMK}} \rangle
-\]
+⟨ φ_DM |  𝐻_EPL  | φ_DMK ⟩
 
 **Interpretation:**
 
-- \( \langle \varphi_{\text{DM}} | \): The **bra vector** representing the data-mining-informed evaluative perspective — how insights from large-scale data shape and filter system interaction.
-- \( \hat{H}_{\text{EPL}} \): The **operator** encoding the dynamics of the EPL system, which integrates **evolutionary principles**, **physical modeling**, and **machine learning** as a unified computational process.
-- \( | \varphi_{\text{DMK}} \rangle \): The **ket vector** representing candidate decision-making strategies, policies, or system states to be evaluated or transformed.
+- `⟨ φ_DM |` — Bra vector representing **data-mining-informed evaluation**, i.e., how extracted patterns guide system interaction.
+- `𝐻_EPL` — Operator representing the **EPL system**, integrating **Evolution**, **Physics**, and **Learning** to transform input into optimized outcomes.
+- `| φ_DMK ⟩` — Ket vector representing **decision-making candidates**, i.e., potential policy actions or outcomes.
 
-This quantum-inspired expression symbolizes how **data-driven evaluations** act upon **decision states** through the lens of an intelligent, evolving physical-learning system.
-
+> This expression metaphorically captures how data-mining insights act on decision space via the EPL mechanism, analogous to an expectation value in quantum mechanics.
 
 | Evolution | Physics | Learning |
 |-----------|---------|----------|
