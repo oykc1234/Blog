@@ -4,11 +4,11 @@
 
 **Interpretation:**
 
-- `⟨ φ |` — The **bra vector** representing insights derived from **Data Mining** — serving as an evaluative or observational perspective.
-- `H` — The **operator** representing the **EPL system**, integrating **Evolution**, **Physics**, and **Learning** as a unified modeling and transformation engine.
-- `| ψ ⟩` — The **ket vector** representing the **Decision-Making** space — possible actions, strategies, or policies to be evaluated.
+- `⟨ φ |` — The **bra vector** representing **Data Mining**, acting as the source of extracted knowledge and evaluative input.
+- `H` — The **operator** representing the **EPL system**, which integrates **Evolution**, **Physics**, and **Learning** to transform data into actionable insights.
+- `| ψ ⟩` — The **ket vector** representing **Decision-Making**, encompassing strategies, choices, or actions influenced by the system.
 
-> This expression metaphorically describes how data-driven insights interact with decision strategies through an intelligent and dynamic system, inspired by the structure of quantum expectation values.
+> This expression conceptually models how data mining drives decision-making through the computational dynamics of an EPL system.
 
 | Evolution | Physics | Learning |
 |-----------|---------|----------|
