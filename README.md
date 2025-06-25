@@ -1,5 +1,7 @@
 ## ⟨ H ⟩ = ⟨ ψ | H | ψ ⟩：Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making
+
 **— Kaichen Ouyang**  
+
 **Interpretation:**
 
 - `⟨ H ⟩` — The **evaluated outcome** or **expected effectiveness** of the system; a scalar value representing the overall impact or utility of decision-making based on data mining through the EPL system.
