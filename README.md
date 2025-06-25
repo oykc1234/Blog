@@ -1,12 +1,11 @@
-## Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making
-
-⟨ φ | H | ψ ⟩
+## ⟨ H ⟩ = ⟨ ψ | H | ψ ⟩：Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making
 
 **Interpretation:**
 
-- `⟨ φ |` — Data Mining.
-- `H` — EPL (Evolution, Physics, Learning) System.
-- `| ψ ⟩` — Decision-Making.
+- `⟨ H ⟩` — The **evaluated outcome** or **expected effectiveness** of the system; a scalar value representing the overall impact or utility of decision-making based on data mining through the EPL system.
+- `⟨ ψ |` — **Data Mining**, representing the extraction of meaningful features and patterns from large-scale datasets.
+- `H` — The **EPL System**, acting as an operator that encodes Evolutionary processes, Physical modeling, and Learning mechanisms to transform data into structured decisions.
+- `| ψ ⟩` — **Decision-Making**, representing the set of strategies, options, or actions influenced and optimized by the system.
 
 | Evolution | Physics | Learning |
 |-----------|---------|----------|
