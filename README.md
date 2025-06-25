@@ -56,3 +56,9 @@
 </div>
 
 <sub>❶ First author | ✉ Corresponding author | [Full Publications](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)</sub>
+
+**I believe that a solid foundation in mathematics and physics is essential for conducting advanced research in artificial intelligence.**
+
+- **Mathematical Foundations**: Mathematical Analysis, Linear Algebra, Real Analysis, Complex Analysis, Functional Analysis, Differential Equations, Dynamical Systems  
+- **Physical Foundations**: Thermodynamics and Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Electrodynamics, Solid-State Physics
+
