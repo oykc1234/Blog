@@ -1,6 +1,4 @@
-## ⟨ H ⟩ = ⟨ ψ | H | ψ ⟩：Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making
-
-**— Kaichen Ouyang**  
+## ⟨ H ⟩ = ⟨ ψ | H | ψ ⟩：Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making — Kaichen Ouyang
 
 **Interpretation:**
 
