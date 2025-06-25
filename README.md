@@ -4,9 +4,9 @@
 
 **Interpretation:**
 
-- `⟨ φ |` — The **bra vector** representing **Data Mining**, acting as the source of extracted knowledge and evaluative input.
-- `H` — The **operator** representing the **EPL system**, which integrates **Evolution**, **Physics**, and **Learning** to transform data into actionable insights.
-- `| ψ ⟩` — The **ket vector** representing **Decision-Making**, encompassing strategies, choices, or actions influenced by the system.
+- `⟨ φ |` — Data Mining.
+- `H` — EPL (Evolution, Physics, Learning) System.
+- `| ψ ⟩` — Decision-Making.
 
 > This expression conceptually models how data mining drives decision-making through the computational dynamics of an EPL system.
 
