@@ -16,37 +16,37 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)  
 *Complete publication list available on Google Scholar*
 
-1. **❶ Escape: an optimization method based on crowd evacuation behaviors**  
-   **K Ouyang**, S Fu, Y Chen, Q Cai, AA Heidari, H Chen  
-   *Artificial Intelligence Review* 58(1), 2024  
+1.  **❶ Escape: an optimization method based on crowd evacuation behaviors**  
+    **K Ouyang**, S Fu, Y Chen, Q Cai, AA Heidari, H Chen  
+    *Artificial Intelligence Review* 58(1), 2024  
 
-2. **A Generative Adversarial Network-Based Investor Sentiment Indicator**  
-   S Qiu, Y Wang, Z Ke, Q Shen, Z Li, R Zhang, **K Ouyang✉**  
-   *Mathematics* 13(9), 1476, 2025
+2.  **A Generative Adversarial Network-Based Investor Sentiment Indicator**  
+    S Qiu, Y Wang, Z Ke, Q Shen, Z Li, R Zhang, **K Ouyang✉**  
+    *Mathematics* 13(9), 1476, 2025  
 
-3. **Multiple objectives escaping bird search optimization**  
-   D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**  
-   *Scientific Reports* 15(1), 5730, 2025
+3.  **Multiple objectives escaping bird search optimization**  
+    D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**  
+    *Scientific Reports* 15(1), 5730, 2025  
 
-4. **❶ Graph Neural Networks Are Evolutionary Algorithms**  
-   **K Ouyang**, S Fu  
-   *arXiv preprint* arXiv:2412.17629, 2024  
+4.  **❶ Graph Neural Networks Are Evolutionary Algorithms**  
+    **K Ouyang**, S Fu  
+    *arXiv preprint* arXiv:2412.17629, 2024  
 
-5. **Study of nonequilibrium phase transitions mechanisms**  
-   YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, KC Ouyang, ...  
-   *The European Physical Journal Plus* 137(10), 1-22, 2022
+5.  **Study of nonequilibrium phase transitions mechanisms**  
+    YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, KC Ouyang, ...  
+    *The European Physical Journal Plus* 137(10), 1-22, 2022  
 
-6. **❶ Dynamic Graph Neural Evolution**  
-   **K Ouyang**, S Fu, Y Chen, H Chen  
-   *IEEE Congress on Evolutionary Computation*, 2025
+6.  **❶ Dynamic Graph Neural Evolution**  
+    **K Ouyang**, S Fu, Y Chen, H Chen  
+    *IEEE Congress on Evolutionary Computation*, 2025  
 
-7. **Physical mechanisms of exit dynamics in microchannels**  
-   YQ Wang, DS Wei, LW Zhang, TY Zhang, TZ Li, ML Fang, KC Ouyang, ...  
-   *International Journal of Modern Physics B* 38(15), 2450193
+7.  **Physical mechanisms of exit dynamics in microchannels**  
+    YQ Wang, DS Wei, LW Zhang, TY Zhang, TZ Li, ML Fang, KC Ouyang, ...  
+    *International Journal of Modern Physics B* 38(15), 2450193  
 
-8.**❶ Graph Learning Metallic Glass Discovery**  
-**K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang  
-*AI for Science* (Under Review)
+8.  **❶ Graph Learning Metallic Glass Discovery**  
+    **K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang  
+    *AI for Science* (Under Review)  
 
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
