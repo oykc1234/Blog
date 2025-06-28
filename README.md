@@ -44,6 +44,10 @@
    YQ Wang, DS Wei, LW Zhang, TY Zhang, TZ Li, ML Fang, KC Ouyang, ...  
    *International Journal of Modern Physics B* 38(15), 2450193
 
+8.**❶ Graph Learning Metallic Glass Discovery**  
+**K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang  
+*AI for Science* (Under Review)
+
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block; margin-right: 10px;">
