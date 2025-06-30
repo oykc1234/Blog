@@ -73,6 +73,6 @@
 
 **I believe that a solid foundation in mathematics and physics is essential for conducting advanced research in artificial intelligence.**
 
-- **Mathematical Foundations**: Mathematical Analysis, Linear Algebra, Real Analysis, Complex Analysis, Functional Analysis, Differential Equations, Dynamical Systems  
-- **Physical Foundations**: Thermodynamics and Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Electrodynamics, Solid-State Physics
+- **Mathematical Foundations**: Mathematical Analysis, Linear Algebra, Real Analysis, Complex Analysis, Functional Analysis, Differential Equations, Dynamical Systems,Random Process  
+- **Physical Foundations**: Thermodynamics and Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Electrodynamics, Solid-State Physics,Quantum Field Theory
 
