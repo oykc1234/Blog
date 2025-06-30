@@ -10,9 +10,9 @@
 | `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition amplitude                 | Decision quality metric                    |
 
 **Key Insights:**
-- When `⟨φ| ≠ |ψ⟩` (general case):  
+- When `⟨φ| ≠ ⟨ψ|` (general case):  
 Represents the *decision impact* on observed data patterns, where `⟨φ|H|ψ⟩` quantifies how effectively decisions transform mined data into actionable results.
-- When `⟨φ| = |ψ⟩` (special case):  
+- When `⟨φ| = ⟨ψ|` (special case):  
 `⟨ψ|H|ψ⟩` becomes the *system expectation value*, representing the EPL system's intrinsic properties when measurement aligns with data state.
 
 | Evolution | Physics | Learning |
