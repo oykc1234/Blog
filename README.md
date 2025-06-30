@@ -1,5 +1,9 @@
 ## 𝒟 := ⟨φ|H|ψ⟩: Data-Mining-Driven EPL System for Decision-Making — Kaichen Ouyang
 
+| Evolution(E) | Physics(P) | Learning(L) |
+|-----------|---------|----------|
+| ![Evolution](https://github.com/user-attachments/assets/cf8114fc-b939-43f9-a3c8-c1042b3c5843) | ![Physics](https://github.com/user-attachments/assets/c1b6f206-1bad-4a5f-b927-ee69c29a3e41) | ![Learning](https://github.com/user-attachments/assets/66ac966a-cfd4-4b86-a0e1-dd90544e3a30) |
+
 **Interpretation:**
 
 | Symbol    | Representation                          | Physical Analogy                     | System Interpretation                     |
@@ -16,10 +20,6 @@
   `⟨ψ|H|ψ⟩` → System's *intrinsic capability*: Self-consistency metric when measurement and data states coincide.
 **Focus: Mathematics and Physics of AI**
   
-| Evolution | Physics | Learning |
-|-----------|---------|----------|
-| ![Evolution](https://github.com/user-attachments/assets/cf8114fc-b939-43f9-a3c8-c1042b3c5843) | ![Physics](https://github.com/user-attachments/assets/c1b6f206-1bad-4a5f-b927-ee69c29a3e41) | ![Learning](https://github.com/user-attachments/assets/66ac966a-cfd4-4b86-a0e1-dd90544e3a30) |
-
 # Publication:
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)  
