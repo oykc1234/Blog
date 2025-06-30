@@ -1,4 +1,4 @@
-## `⟨φ|H|ψ⟩` : Data-Mining-Driven Evolution,Physics&learning(EPL) System for Decision-Making — Kaichen Ouyang
+## `\mathcal{I}=⟨φ|H|ψ⟩` : Data-Mining-Driven Evolution,Physics&learning(EPL) System for Decision-Making — Kaichen Ouyang
 
 **Interpretation:**
 
