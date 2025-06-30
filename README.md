@@ -1,11 +1,19 @@
-## ⟨ H ⟩ = ⟨ ψ | H | ψ ⟩：Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making — Kaichen Ouyang
+## ⟨φ|H|ψ⟩: Data-Mining-Driven EPL (Evolution, Physics, Learning) System for Decision-Making — Kaichen Ouyang
 
 **Interpretation:**
 
-- `⟨ H ⟩` — The **evaluated outcome** or **expected effectiveness** of the system; a scalar value representing the overall impact or utility of decision-making based on data mining through the EPL system.
-- `⟨ ψ |` — **Data Mining**, representing the extraction of meaningful features and patterns from large-scale datasets.
-- `H` — The **EPL System**, acting as an operator that encodes Evolutionary processes, Physical modeling, and Learning mechanisms to transform data into structured decisions.
-- `| ψ ⟩` — **Decision-Making**, representing the set of strategies, options, or actions influenced and optimized by the system.
+| Symbol  | Representation                          | Physical Analogy                          | System Interpretation                          |
+|---------|----------------------------------------|------------------------------------------|-----------------------------------------------|
+| `⟨φ|`   | **Decision Operator** (Bra)            | Measurement basis                        | Active decision-making process that observes/measures the system |
+| `H`     | **EPL Hamiltonian**                    | Time evolution operator                  | The core algorithm encoding Evolutionary dynamics, Physical constraints, and Learning mechanisms |
+| `|ψ⟩`   | **Data State** (Ket)                   | Quantum probability distribution         | Extracted knowledge/patterns from data mining (system state) |
+| `⟨φ|H|ψ⟩` | **System Effectiveness**              | Transition amplitude                     | Measured quality of decisions informed by EPL-processed data |
+
+**Key Insights:**
+- When `⟨φ| ≠ |ψ⟩` (general case):  
+Represents the *decision impact* on observed data patterns, where `⟨φ|H|ψ⟩` quantifies how effectively decisions transform mined data into actionable results.
+- When `⟨φ| = |ψ⟩` (special case):  
+`⟨ψ|H|ψ⟩` becomes the *system expectation value*, representing the EPL system's intrinsic properties when measurement aligns with data state.
 
 | Evolution | Physics | Learning |
 |-----------|---------|----------|
