@@ -37,7 +37,7 @@
     D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**  
     *Scientific Reports* 15(1), 5730, 2025  
 
-4.  **❶ Graph Neural Networks Are Evolutionary Algorithms**  
+4.  **❶ Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN**  
     **K Ouyang**, S Fu  
     *arXiv preprint* arXiv:2412.17629, 2024  
 
