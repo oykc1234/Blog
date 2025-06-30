@@ -4,10 +4,10 @@
 
 | Symbol    | Representation                          | Physical Analogy                     | System Interpretation                     |
 |-----------|----------------------------------------|---------------------------------------|--------------------------------------------|
-| `⟨φ\|`    | <span style="color:#FF6B6B">**Decision Operator**</span> (Bra) | Measurement basis                    | Active decision process                 |
-| `H`       | <span style="color:#4ECDC4">**EPL Hamiltonian**</span>         | Time evolution operator              | Core algorithm engine                      |
-| `\|ψ⟩`    | <span style="color:#FFD166">**Data State**</span> (Ket)        | Quantum probability distribution     | Mined knowledge representation             |
-| `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition amplitude                 | Decision quality metric                    |
+| `⟨φ\|`    | <span style="color:#FF6B6B">**Decision Operator**</span> (Bra) | Measurement Basis                    | Active Decision Process                 |
+| `H`       | <span style="color:#4ECDC4">**EPL Hamiltonian**</span>         | Time Evolution Operator              | Core Algorithm Engine                      |
+| `\|ψ⟩`    | <span style="color:#FFD166">**Data State**</span> (Ket)        | Quantum Probability Distribution     | Mined Knowledge Representation             |
+| `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition Amplitude                 | Decision Quality Metric                    |
 
 **Key Insights**
 - **General Case** (`⟨φ| ≠ ⟨ψ|`):  
