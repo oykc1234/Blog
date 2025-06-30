@@ -2,12 +2,12 @@
 
 **Interpretation:**
 
-| Symbol                 | Representation                                      | Physical Analogy                             |
-|------------------------|-----------------------------------------------------|---------------------------------------------|
-| `⟨φ\|`                 | <span style="color:#FF6B6B">**Decision Operator**</span> (Bra) | Measurement basis                          |
-| `H`                    | <span style="color:#4ECDC4">**EPL Hamiltonian**</span>         | Time evolution operator                    |
-| `\|ψ⟩`                 | <span style="color:#FFD166">**Data Distribution**</span> (Ket) | Quantum probability distribution           |
-| `⟨φ\|H\|ψ⟩`            | <span style="color:#A5DD9B">**System Effectiveness**</span>    | Transition amplitude                       |
+| Symbol    | Representation                          | Physical Analogy                     | System Interpretation                     |
+|-----------|----------------------------------------|---------------------------------------|--------------------------------------------|
+| `⟨φ\|`    | <span style="color:#FF6B6B">**Decision Operator**</span> (Bra) | Measurement basis                    | Active decision process                 |
+| `H`       | <span style="color:#4ECDC4">**EPL Hamiltonian**</span>         | Time evolution operator              | Core algorithm engine                      |
+| `\|ψ⟩`    | <span style="color:#FFD166">**Data State**</span> (Ket)        | Quantum probability distribution     | Mined knowledge representation             |
+| `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition amplitude                 | Decision quality metric                    |
 
 **Key Insights**
 - **General Case** (`⟨φ| ≠ ⟨ψ|`):  
