@@ -9,11 +9,11 @@
 | `\|ψ⟩`    | <span style="color:#FFD166">**Data Distribution**</span> (Ket) | Quantum probability distribution     |
 | `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition amplitude                 |
 
-**Key Insights:**
-- When `⟨φ| ≠ ⟨ψ|` (general case):  
-Represents the *decision impact* on observed data patterns, where `⟨φ|H|ψ⟩` quantifies how effectively decisions transform mined data into actionable results.
-- When `⟨φ| = ⟨ψ|` (special case):  
-`⟨ψ|H|ψ⟩` becomes the *system expectation value*, representing the EPL system's intrinsic properties when measurement aligns with data state.
+**Key Insights**
+- **General Case** (`⟨φ| ≠ ⟨ψ|`):  
+  `⟨φ|H|ψ⟩` → Quantifies *decision efficacy*: How well EPL-processed data (`H|ψ⟩`) satisfies decision criteria (`⟨φ|`).
+- **Special Case** (`⟨φ| = ⟨ψ|`):  
+  `⟨ψ|H|ψ⟩` → System's *intrinsic capability*: Self-consistency metric when measurement and data states coincide.
 
 | Evolution | Physics | Learning |
 |-----------|---------|----------|
