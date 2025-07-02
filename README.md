@@ -1,4 +1,4 @@
-## `𝒟 := ⟨φ|H|ψ⟩`: Data-Mining-Driven Mathematical and Physical Systems for Decision-Making — Kaichen Ouyang
+## `𝒟 := ⟨φ|H|ψ⟩`: Data-Driven Mathematical and Physical Systems for Decision-Making — Kaichen Ouyang
 
 | Evolution System | Physics System | Learning System |
 |-----------|---------|----------|
