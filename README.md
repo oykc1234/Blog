@@ -9,7 +9,7 @@
 | Symbol    | Representation                          | Physical Analogy                     | System Interpretation                     |
 |-----------|----------------------------------------|---------------------------------------|--------------------------------------------|
 | `⟨φ\|`    | <span style="color:#FF6B6B">**Decision Operator**</span> | Measurement Basis                    | Active Decision Process                 |
-| `H`       | <span style="color:#4ECDC4">**EPL's Hamiltonian**</span>         | Time Evolution Operator              | Core Algorithm Engine                      |
+| `H`       | <span style="color:#4ECDC4">**Hamiltonian**</span>         | Time Evolution Operator              | Core Algorithm Engine                      |
 | `\|ψ⟩`    | <span style="color:#FFD166">**Data State**</span>        | Quantum Probability Distribution     | Mined Knowledge Representation             |
 | `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition Amplitude                 | Decision Quality Metric                    |
 
