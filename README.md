@@ -58,7 +58,7 @@
     *AI for Science* (Under Review)
     
 9.  **❶ Rethinking Over-Smoothing in Graph Neural Networks: A Perspective from Anderson Localization**  
-    **K Ouyang**, S Fu  
+    **K Ouyang**  
     *arXiv preprint* arXiv:2507.05263 , 2025 
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
