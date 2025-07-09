@@ -45,7 +45,7 @@
     YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, KC Ouyang, ...  
     *The European Physical Journal Plus* 137(10), 1-22, 2022  
 
-6.  **❶ Dynamic Graph Neural Evolution**  
+6.  **❶ Dynamic Graph Neural Evolution: An Evolutionary Framework Integrating Graph Neural Networks with Adaptive Filtering**  
     **K Ouyang**, S Fu, Y Chen, H Chen  
     *IEEE Congress on Evolutionary Computation*, 2025  
 
