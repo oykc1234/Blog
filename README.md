@@ -55,8 +55,11 @@
 
 8.  **❶ Graph Learning Metallic Glass Discovery**  
     **K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang  
-    *AI for Science* (Under Review)  
-
+    *AI for Science* (Under Review)
+    
+9.  **❶ Rethinking Over-Smoothing in Graph Neural Networks: A Perspective from Anderson Localization**  
+    **K Ouyang**, S Fu  
+    *arXiv preprint* arXiv:2507.05263 , 2025 
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block; margin-right: 10px;">
