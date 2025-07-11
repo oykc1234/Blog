@@ -59,7 +59,16 @@
     
 9.  **❶ Rethinking Over-Smoothing in Graph Neural Networks: A Perspective from Anderson Localization**  
     **K Ouyang**  
-    *arXiv preprint* arXiv:2507.05263 , 2025 
+    *arXiv preprint* arXiv:2507.05263 , 2025
+
+10. **Trend-Aware Mechanism for metaheuristic algorithms**  
+    JB Lian, K Ouyang, R Zhong, Y Zhang, S Luo, L Ma, X Wu, H Chen  
+    *Applied Soft Computing*, 2025
+
+11. **❶ Consciousness as a Jamming Phase**  
+    **K Ouyang**  
+    *arXiv preprint* arXiv:2507.05263 , 2025
+    
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block; margin-right: 10px;">
@@ -78,4 +87,3 @@
 
 - **Mathematical Foundations**: Mathematical Analysis, Linear Algebra, Real Analysis, Complex Analysis, Functional Analysis, Differential Equations, Dynamical Systems,Random Process  
 - **Physical Foundations**: Thermodynamics and Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Electrodynamics, Solid-State Physics,Quantum Field Theory,Computational Physics
-
