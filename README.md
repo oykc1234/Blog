@@ -62,7 +62,7 @@
     *arXiv preprint* arXiv:2507.05263 , 2025
 
 10. **Trend-Aware Mechanism for metaheuristic algorithms**  
-    JB Lian, K Ouyang, R Zhong, Y Zhang, S Luo, L Ma, X Wu, H Chen  
+    JB Lian, **K Ouyang**, R Zhong, Y Zhang, S Luo, L Ma, X Wu, H Chen  
     *Applied Soft Computing*, 2025
 
 11. **❶ Consciousness as a Jamming Phase**  
