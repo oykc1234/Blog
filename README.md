@@ -67,7 +67,7 @@
 
 11. **❶ Consciousness as a Jamming Phase**  
     **K Ouyang**  
-    *arXiv preprint* arXiv:2507.05263 , 2025
+    *arXiv preprint*
     
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
