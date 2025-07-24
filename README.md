@@ -1,24 +1,10 @@
-## `𝒟 := ⟨φ|H|ψ⟩`: Data-Driven Evolutionary, Developmental & Learning Systems for Decision-Making — Kaichen Ouyang
+##  Data-Driven Evolutionary, Developmental & Learning Systems for Decision-Making — Kaichen Ouyang
 
 | Evolution System | Development System | Learning System |
 |-----------|---------|----------|
 | ![Evolution](https://github.com/user-attachments/assets/cf8114fc-b939-43f9-a3c8-c1042b3c5843) | ![Physics](https://github.com/user-attachments/assets/c1b6f206-1bad-4a5f-b927-ee69c29a3e41) | ![Learning](https://github.com/user-attachments/assets/66ac966a-cfd4-4b86-a0e1-dd90544e3a30) |
 
-**Interpretation:**
 
-| Symbol    | Representation                          | Physical Analogy                     | System Interpretation                     |
-|-----------|----------------------------------------|---------------------------------------|--------------------------------------------|
-| `⟨φ\|`    | <span style="color:#FF6B6B">**Decision Operator**</span> | Measurement Basis                    | Active Decision Process                 |
-| `H`       | <span style="color:#4ECDC4">**Hamiltonian**</span>         | Time Evolution Operator              | Core Algorithm Engine                      |
-| `\|ψ⟩`    | <span style="color:#FFD166">**Data State**</span>        | Quantum Probability Distribution     | Mined Knowledge Representation             |
-| `⟨φ\|H\|ψ⟩` | <span style="color:#A5DD9B">**System Effectiveness**</span>  | Transition Amplitude                 | Decision Quality Metric                    |
-
-- **General Case** (`⟨φ| ≠ ⟨ψ|`):  
-  `⟨φ|H|ψ⟩` → Quantifies *decision efficacy*: How well EPL-processed data (`H|ψ⟩`) satisfies decision criteria (`⟨φ|`).
-**Focus: AI for Mathematics and Physics**  
-- **Special Case** (`⟨φ| = ⟨ψ|`):  
-  `⟨ψ|H|ψ⟩` → System's *intrinsic capability*: Self-consistency metric when measurement and data states coincide.
-**Focus: Mathematics and Physics of AI**
   
 # Publication:
 
