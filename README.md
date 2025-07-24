@@ -37,7 +37,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     *arXiv preprint* arXiv:2412.17629, 2024  
 
 5.  **Study of nonequilibrium phase transitions mechanisms**  
-    YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, KC Ouyang, ...
+    YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, K Ouyang, ...
     
     *The European Physical Journal Plus* 137(10), 1-22, 2022  
 
@@ -72,12 +72,12 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     *arXiv preprint* arXiv.2507.08197 , 2025
 
 12. **❶ Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning**  
-    **K Ouyang**, Dedai Wei, Shengwei Fu, Shaowei Gu, Xinye Sha, Juntao Yu, Jiaquan Yu, Ali Asghar Heidar, Zhennao Cai, Huiling Cheng
+    **K Ouyang**, D Wei, S Fu, S Gu, X Sha, J Yu, J Yu, AA Heidar, Z Cai, H Chen
 
     *Results in Engineering*, (Under Review)
 
 13. **Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
-    Wanting Xiao, Junbo Jacob Lian, **K Ouyang✉**, Shaowei Gu, Zong Ke, Dedai Wei, Xinye Sha, Jiawei Wang, Shengwei Fu, Minyu Qiu, Chaoyang Xu
+    W Xiao, JJ Lian, **K Ouyang✉**, S Gu, Z Ke, D Wei, X Sha, J Wang, S Fu, M Qiu, C Xu
    
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
