@@ -9,7 +9,7 @@ In nature, biological evolution, physical dynamics, and learning behavior form t
 Specifically, we establish a computational correspondence to nature's three adaptive mechanisms: (1) evolutionary computation directly models biological evolution through population-based optimization of genetic representations; (2) statistical physics formally characterizes developmental self-organization via disorder-to-order transitions mathematically equivalent to physical phase transitions; and (3) machine learning explicitly emulates biological learning through neural network training grounded in synaptic plasticity principles. However, contemporary artificial intelligence has predominantly focused on machine learning paradigms, which primarily mimic human-like intelligence. We argue that true artificial intelligence should not be confined to anthropocentric models alone. The other two fundamental adaptive mechanisms - biologically-inspired evolutionary systems and physics-based self-organizing systems - represent equally important and potentially more general forms of intelligence that deserve greater attention in AI research.
 
 # Research Interests: 
-Evolutionary Optimization | Statistical Physics | Machine Learning
+Evolutionary Computation | Statistical Physics | Machine Learning
 
 # Publication:
 
