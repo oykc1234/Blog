@@ -99,6 +99,12 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     D Wei, Z Wang, H Kang, X Sha, Y Xie, A Dai, **K Ouyang✉**
 
     **Scientific Reports**, (Under Review)
+
+15. **❶ Beaver Behavior Optimizer: A Novel Metaheuristic Algorithm for Solar PV Parameter Identification and Engineering Problems**
+
+    **K Ouyang**, ...
+
+    **Journal of Advanced Research**, (Under Review)
     
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
@@ -113,6 +119,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
   <img src="https://github.com/user-attachments/assets/13cf97f6-516d-486b-b104-42d8e4f0f049" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/e9269a3f-9f15-48cb-a68b-020ad4b94223" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/80a07dc0-fc68-4338-8960-2216113894f7" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/2c1709a2-0379-4817-9188-a1996a3bc3e9" height="150" style="display: inline-block;">
 
 </div>
 
