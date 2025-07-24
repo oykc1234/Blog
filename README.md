@@ -9,7 +9,7 @@ Evolution, development, and learning are three primary adaptive mechanisms in na
 Specifically, we posit that evolutionary computation mimics biological evolution through population-based optimization, statistical physics models developmental processes by characterizing non-equilibrium to equilibrium transitions, while machine learning emulates biological learning behavior through neural network training. Together, these computational paradigms mirror nature's three fundamental adaptation mechanisms.
 
 # Research Interests: 
-Evolutionary Optimization | Machine Learning | Statistical Physics
+Evolutionary Optimization | Statistical Physics | Machine Learning
 
 # Publication:
 
