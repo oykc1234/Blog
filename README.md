@@ -59,7 +59,11 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 11. **❶ Consciousness as a Jamming Phase**  
     **K Ouyang**  
     *arXiv preprint* arXiv.2507.08197 , 2025
-    
+
+12 **❶ Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning**  
+    **K Ouyang**, Dedai Wei, Shengwei Fu, Shaowei Gu, Xinye Sha, Juntao Yu, Jiaquan Yu, Ali Asghar Heidar, Zhennao Cai, Huiling Cheng
+    *Results in Engineering* (Under Review)
+   
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block; margin-right: 10px;">
