@@ -83,13 +83,13 @@ Evolutionary Computation | Statistical Physics | Machine Learning
    
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/bc4c89da-826f-4fa2-a391-7be66fb04e85" height="150" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/e8af1c48-fc8a-47c5-8a80-917906c88dce" height="150" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/88ef3402-cc5a-423b-928a-fe24f915fa43" height="150" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/aacc46e4-b6ba-4c67-9dda-45c74ed895e5" height="150" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/791127fe-84c6-4935-8e63-4f3bc4eb76c3" height="150" style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/14f71135-bc34-4d5e-8640-7a80938634b0" height="150" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/bc4c89da-826f-4fa2-a391-7be66fb04e85" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/e8af1c48-fc8a-47c5-8a80-917906c88dce" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/88ef3402-cc5a-423b-928a-fe24f915fa43" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/aacc46e4-b6ba-4c67-9dda-45c74ed895e5" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/791127fe-84c6-4935-8e63-4f3bc4eb76c3" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/14f71135-bc34-4d5e-8640-7a80938634b0" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/cbce6541-e06c-4435-8549-3e03ade74ddf" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/13cf97f6-516d-486b-b104-42d8e4f0f049" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/e9269a3f-9f15-48cb-a68b-020ad4b94223" height="150" style="display: inline-block;">
