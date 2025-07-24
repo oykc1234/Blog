@@ -82,7 +82,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     **Biomedical Signal Processing and Control**, (Under Review)
 
 14. **A Comprehensive Analysis of Digital Inclusive Finance's Influence on High Quality Enterprise Development through Fixed Effects and Deep Learning Frameworks**
-    D Weia, Z Wang, H Kang, X Sha, Y Xie, A Dai, **K Ouyang✉**
+    D Wei, Z Wang, H Kang, X Sha, Y Xie, A Dai, **K Ouyang✉**
 
     **Scientific Reports**, (Under Review)
     
