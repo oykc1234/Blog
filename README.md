@@ -76,6 +76,8 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 
     *Results in Engineering*, (Under Review)
 
+13. **Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
+    Wanting Xiao, Junbo Jacob Lian, **K Ouyang✉**, Shaowei Gu, Zong Ke, Dedai Wei, Xinye Sha, Jiawei Wang, Shengwei Fu, Minyu Qiu, Chaoyang Xu
    
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
