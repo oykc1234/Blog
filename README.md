@@ -80,7 +80,12 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     W Xiao, JJ Lian, **K Ouyang✉**, S Gu, Z Ke, D Wei, X Sha, J Wang, S Fu, M Qiu, C Xu
 
     **Biomedical Signal Processing and Control**, (Under Review)
-   
+
+14. **A Comprehensive Analysis of Digital Inclusive Finance's Influence on High Quality Enterprise Development through Fixed Effects and Deep Learning Frameworks**
+    D Weia, Z Wang, H Kang, X Sha, Y Xie, A Dai, **K Ouyang✉**
+
+    **Scientific Reports**, (Under Review)
+    
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block;">
