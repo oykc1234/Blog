@@ -62,6 +62,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 
 12. **❶ Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning**  
     **K Ouyang**, Dedai Wei, Shengwei Fu, Shaowei Gu, Xinye Sha, Juntao Yu, Jiaquan Yu, Ali Asghar Heidar, Zhennao Cai, Huiling Cheng
+
     *Results in Engineering*, (Under Review)
 
    
