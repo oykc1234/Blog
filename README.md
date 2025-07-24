@@ -16,67 +16,80 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)  
 *Complete publication list available on Google Scholar*
 
-1.  **❶ Escape: an optimization method based on crowd evacuation behaviors**  
+1.  **❶ Escape: an optimization method based on crowd evacuation behaviors**
+ 
     **K Ouyang**, S Fu, Y Chen, Q Cai, AA Heidari, H Chen
     
     **Artificial Intelligence Review** 58(1), 2024  
 
-2.  **A Generative Adversarial Network-Based Investor Sentiment Indicator**  
+2.  **A Generative Adversarial Network-Based Investor Sentiment Indicator**
+ 
     S Qiu, Y Wang, Z Ke, Q Shen, Z Li, R Zhang, **K Ouyang✉**
     
     **Mathematics** 13(9), 1476, 2025  
 
-3.  **Multiple objectives escaping bird search optimization and its application in stock market prediction based on transformer model**  
+3.  **Multiple objectives escaping bird search optimization and its application in stock market prediction based on transformer model**
+
     D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**
     
     **Scientific Reports** 15(1), 5730, 2025  
 
-4.  **❶ Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN**  
+4.  **❶ Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN**
+
     **K Ouyang**, S Fu
     
     **arXiv preprint** arXiv:2412.17629, 2024  
 
-5.  **Study of nonequilibrium phase transitions mechanisms**  
+5.  **Study of nonequilibrium phase transitions mechanisms**
+
     YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, K Ouyang, ...
     
     **The European Physical Journal Plus** 137(10), 1-22, 2022  
 
-6.  **❶ Dynamic Graph Neural Evolution: An Evolutionary Framework Integrating Graph Neural Networks with Adaptive Filtering**  
+6.  **❶ Dynamic Graph Neural Evolution: An Evolutionary Framework Integrating Graph Neural Networks with Adaptive Filtering**
+  
     **K Ouyang**, S Fu, Y Chen, H Chen
      
     **IEEE Congress on Evolutionary Computation**, 2025  
 
-7.  **Physical mechanisms of exit dynamics in microchannels**  
+7.  **Physical mechanisms of exit dynamics in microchannels**
+
     YQ Wang, DS Wei, LW Zhang, TY Zhang, TZ Li, ML Fang, KC Ouyang, ...
 
     **International Journal of Modern Physics B** 38(15), 2450193  
 
-8.  **❶ Graph Learning Metallic Glass Discovery**  
+8.  **❶ Graph Learning Metallic Glass Discovery**
+ 
     **K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang
      
     **AI for Science** (Under Review)
     
-9.  **❶ Rethinking Over-Smoothing in Graph Neural Networks: A Perspective from Anderson Localization**  
+9.  **❶ Rethinking Over-Smoothing in Graph Neural Networks: A Perspective from Anderson Localization**
+
     **K Ouyang**
      
     **arXiv preprint** arXiv:2507.05263 , 2025
 
-10. **Trend-Aware Mechanism for metaheuristic algorithms**  
+10. **Trend-Aware Mechanism for metaheuristic algorithms**
+ 
     JB Lian, **K Ouyang**, R Zhong, Y Zhang, S Luo, L Ma, X Wu, H Chen
     
     **Applied Soft Computing**, 2025
 
-11. **❶ Consciousness as a Jamming Phase**  
+11. **❶ Consciousness as a Jamming Phase**
+
     **K Ouyang**
     
     **arXiv preprint** arXiv.2507.08197 , 2025
 
-12. **❶ Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning**  
+12. **❶ Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning**
+
     **K Ouyang**, D Wei, S Fu, S Gu, X Sha, J Yu, J Yu, AA Heidar, Z Cai, H Chen
 
     **Results in Engineering**, (Under Review)
 
 13. **Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
+ 
     W Xiao, JJ Lian, **K Ouyang✉**, S Gu, Z Ke, D Wei, X Sha, J Wang, S Fu, M Qiu, C Xu
 
     **Biomedical Signal Processing and Control**, (Under Review)
