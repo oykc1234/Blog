@@ -2,7 +2,7 @@
 
 Evolution, development, and learning are three primary adaptive mechanisms in nature. Evolution refers to the process by which biological populations adapt to their environment through heritable genetic variation and natural selection, enabling survival and reproduction. Development is the transformation of an individual organism from the beginning of its life to maturity—a process in which the organism continuously optimizes its own structure and function through intrinsic mechanisms during its life cycle. Learning, on the other hand, involves an individual adjusting its behavior based on experience to respond to environmental changes. These three mechanisms work synergistically, collectively shaping an organism's adaptive capacity and evolutionary trajectory.
 
-| Evolution System | Development System | Learning System |
+| Evolution System | Physical System | Learning System |
 |-----------|---------|----------|
 | ![Evolution](https://github.com/user-attachments/assets/cf8114fc-b939-43f9-a3c8-c1042b3c5843) | ![Physics](https://github.com/user-attachments/assets/c1b6f206-1bad-4a5f-b927-ee69c29a3e41) | ![Learning](https://github.com/user-attachments/assets/66ac966a-cfd4-4b86-a0e1-dd90544e3a30) |
 
