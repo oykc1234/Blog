@@ -26,7 +26,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     
     **Mathematics** 13(9), 1476, 2025  
 
-3.  **Multiple objectives escaping bird search optimization**  
+3.  **Multiple objectives escaping bird search optimization and its application in stock market prediction based on transformer model**  
     D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**
     
     **Scientific Reports** 15(1), 5730, 2025  
