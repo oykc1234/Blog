@@ -93,6 +93,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
   <img src="https://github.com/user-attachments/assets/cbce6541-e06c-4435-8549-3e03ade74ddf" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/13cf97f6-516d-486b-b104-42d8e4f0f049" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/e9269a3f-9f15-48cb-a68b-020ad4b94223" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/80a07dc0-fc68-4338-8960-2216113894f7" height="150" style="display: inline-block;">
 
 </div>
 
