@@ -106,7 +106,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 
     **Journal of Advanced Research**, (Under Review)
 
-16.Multi-Objective Mobile Damped Wave Algorithm (MOMDWA): A Novel Approach For Quantum System Control
+16. **Multi-Objective Mobile Damped Wave Algorithm (MOMDWA): A Novel Approach For Quantum System Control**
 
     J Yu, J Yu, D Wei, X Sha, S Fu, M Qiu, Y Jin, **K Ouyang✉**
 
