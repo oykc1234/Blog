@@ -128,7 +128,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 
      **K Ouyang**, M Qiu, S Fu, Y Chen, AA Heidari, H Chen
 
-     **Neural Networks**, (Under Review)
+     **The Journal of Supercomputing**, (Under Review)
 
  
 ## Publication Gallery
