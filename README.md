@@ -123,6 +123,13 @@ Evolutionary Computation | Statistical Physics | Machine Learning
      D Wei,**K Ouyang✉**, Z Wang, X Sha, M Qiu, Z Yi, AA Heidari, H Chen
 
      **Neural Networks**, (Under Review)
+
+19. **❶An Improved Optical Microscope Algorithm for Training Multi-layer Perceptron and Engineering Optimization**
+
+     **K Ouyang**, M Qiu, S Fu, Y Chen, AA Heidari, H Chen
+
+     **Neural Networks**, (Under Review)
+
  
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
@@ -140,7 +147,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
   <img src="https://github.com/user-attachments/assets/2c1709a2-0379-4817-9188-a1996a3bc3e9" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/b07cd49c-4374-41cd-85ce-63b880ef0f4a" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/99ba3ef1-d28a-4b56-acdb-4dc16bb24d00" height="150" style="display: inline-block;">
-
+  <img src="https://github.com/user-attachments/assets/5bf708eb-cfdb-48ed-a600-194ad2ea6e39" height="150" style="display: inline-block;">
 </div>
 
 <sub>❶ First author | ✉ Corresponding author | [Full Publications](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)</sub>
