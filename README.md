@@ -111,7 +111,13 @@ Evolutionary Computation | Statistical Physics | Machine Learning
     J Yu, J Yu, D Wei, X Sha, S Fu, M Qiu, Y Jin, **K Ouyang✉**
 
     **arXiv preprint** arXiv:2502.05228 , 2025
-    
+
+17. **❶ Stochastic Gradient-guided Adaptive Differential Evolution: Algorithm and Its Application in the Diagnosis of COVID-19, Influenza, and Bacterial Pneumonia**
+
+    **K Ouyang**,T Hou,JJ Lian,S Fu,Z Ke,D Wei, M Qiu,J Ouyang
+
+    **Artificial Intelligence In Medicine**, (Under Review)
+
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block;">
