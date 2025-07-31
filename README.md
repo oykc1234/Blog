@@ -118,6 +118,12 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 
     **Artificial Intelligence In Medicine**, (Under Review)
 
+18. **Multi-strategy boosted dung beetle algorithm and its application for bankruptcy prediction**
+
+     D Wei,**K Ouyang✉**, Z Wang, X Sha, M Qiu, Z Yi, AA Heidari, H Chen
+
+     **Neural Networks**, (Under Review)
+ 
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/fed7b6c1-7806-471b-a591-863fa509f867" height="150" style="display: inline-block;">
