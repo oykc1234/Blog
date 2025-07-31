@@ -58,7 +58,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning
 
     **International Journal of Modern Physics B** 38(15), 2450193  
 
-8.  **❶ Graph Learning Metallic Glass Discovery**
+8.  **❶ Graph Learning Metallic Glass Discovery from Wikipedia**
  
     **K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang
      
@@ -129,6 +129,13 @@ Evolutionary Computation | Statistical Physics | Machine Learning
      **K Ouyang**, M Qiu, S Fu, Y Chen, AA Heidari, H Chen
 
      **The Journal of Supercomputing**, (Under Review)
+
+20. **❶ Why Flow Matching is Particle Swarm Optimization?**
+
+     **K Ouyang** 
+
+     **arXiv preprint**, arXiv.2507.20810 , 2025
+
 
  
 ## Publication Gallery
