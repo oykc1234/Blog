@@ -11,6 +11,9 @@ Specifically, these three adaptive mechanisms correspond to three distinct resea
 # Research Interests: 
 Evolutionary Computation | Statistical Physics | Machine Learning
 
+# Future Interest：
+Artificial Life, Neural Cvolution, Energy-based Model
+
 # Publication:
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)  
