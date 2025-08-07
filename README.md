@@ -12,7 +12,7 @@ Specifically, these three adaptive mechanisms correspond to three distinct resea
 Evolutionary Computation | Statistical Physics | Machine Learning
 
 # Future Interest：
-Artificial Life, Diffusion model, Flow Matching, Energy-based Model, Reinforcement Learning
+Artificial Life, Diffusion model, Flow Matching, Energy-based Model, Reinforcement Learning, Computational Neuroscience, Cognitive Science
 
 # Publication:
 
