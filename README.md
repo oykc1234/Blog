@@ -126,12 +126,7 @@ Artificial Life, Diffusion model, Flow Matching, Energy-based Model,Brain-inspir
      D Wei,**K Ouyang✉**, Z Wang, X Sha, M Qiu, Z Yi, AA Heidari, H Chen
 
      **Neural Networks**, (Under Review)
-
-19. **❶An Improved Optical Microscope Algorithm for Training Multi-layer Perceptron and Engineering Optimization**
-
-     **K Ouyang**, M Qiu, S Fu, Y Chen, AA Heidari, H Chen
-
-     **The Journal of Supercomputing**, (Under Review)
+    
 
 20. **❶ Why Flow Matching is Particle Swarm Optimization?**
 
