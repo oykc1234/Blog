@@ -89,7 +89,7 @@ Artificial Life, Diffusion model, Flow Matching, Energy-based Model,Brain-inspir
 
     **K Ouyang**, D Wei, S Fu, S Gu, X Sha, J Yu, J Yu, AA Heidar, Z Cai, H Chen
 
-    **Results in Engineering**, (Under Review)
+    **Results in Engineering**, (Accept)
 
 13. **Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
  
