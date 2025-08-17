@@ -144,7 +144,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
 22. **Multi-strategy improved dung beetle algorithm and its applications in engineering optimization and bankruptcy prediction**
 
-     D Wei, **K Ouyang✉**
+     D Wei, **K Ouyang✉** ...
 
      **Neural Networks**, (Under Review)
  
