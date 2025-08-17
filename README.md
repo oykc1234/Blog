@@ -22,13 +22,13 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
     
     **Artificial Intelligence Review** 58(1), 2024  
 
-2.  **A Generative Adversarial Network-Based Investor Sentiment Indicator**
+2.  **✉ A Generative Adversarial Network-Based Investor Sentiment Indicator**
  
     S Qiu, Y Wang, Z Ke, Q Shen, Z Li, R Zhang, **K Ouyang✉**
     
     **Mathematics** 13(9), 1476, 2025  
 
-3.  **Multiple objectives escaping bird search optimization and its application in stock market prediction based on transformer model**
+3.  **✉ Multiple objectives escaping bird search optimization and its application in stock market prediction based on transformer model**
 
     D Wei, Z Wang, M Qiu, J Yu, J Yu, Y Jin, X Sha, **K Ouyang✉**
     
@@ -88,13 +88,13 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
     **Results in Engineering**, (Accept)
 
-13. **Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
+13. **✉ Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
  
     W Xiao, JJ Lian, **K Ouyang✉**, S Gu, Z Ke, D Wei, X Sha, J Wang, S Fu, M Qiu, C Xu
 
     **Biomedical Signal Processing and Control**, (Under Review)
 
-14. **A Comprehensive Analysis of Digital Inclusive Finance's Influence on High Quality Enterprise Development through Fixed Effects and Deep Learning Frameworks**
+14. **✉ A Comprehensive Analysis of Digital Inclusive Finance's Influence on High Quality Enterprise Development through Fixed Effects and Deep Learning Frameworks**
 
     D Wei, Z Wang, H Kang, X Sha, Y Xie, A Dai, **K Ouyang✉**
 
@@ -106,7 +106,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
     **Journal of Advanced Research**, (Under Review)
 
-16. **Multi-Objective Mobile Damped Wave Algorithm (MOMDWA): A Novel Approach For Quantum System Control**
+16. **✉ Multi-Objective Mobile Damped Wave Algorithm (MOMDWA): A Novel Approach For Quantum System Control**
 
     J Yu, J Yu, D Wei, X Sha, S Fu, M Qiu, Y Jin, **K Ouyang✉**
 
@@ -118,7 +118,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
     **Artificial Intelligence In Medicine**, (Under Review)
 
-18. **Multi-strategy boosted dung beetle algorithm and its application for bankruptcy prediction**
+18. **✉ Multi-strategy boosted dung beetle algorithm and its application for bankruptcy prediction**
 
      D Wei,**K Ouyang✉**, Z Wang, X Sha, M Qiu, Z Yi, AA Heidari, H Chen
 
@@ -142,11 +142,6 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
     **Neural Networks**, (Under Review)
 
-22. **Multi-strategy improved dung beetle algorithm and its applications in engineering optimization and bankruptcy prediction**
-
-     D Wei, **K Ouyang✉** ...
-
-     **Neural Networks**, (Under Review)
  
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
