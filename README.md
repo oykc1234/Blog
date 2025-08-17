@@ -136,7 +136,17 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
      **arXiv preprint**, arXiv.2507.20810 , 2025
 
+21. **Enhancing feature interactions for non-spatial data classification**
 
+    JJ Lian, H Chen, K Ouyang ...
+
+    **Neural Networks**, (Under Review)
+
+22. **Multi-strategy improved dung beetle algorithm and its applications in engineering optimization and bankruptcy prediction**
+
+     D Wei, **K Ouyang✉**
+
+     **Neural Networks**, (Under Review)
  
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
