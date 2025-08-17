@@ -123,7 +123,12 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
      D Wei,**K Ouyang✉**, Z Wang, X Sha, M Qiu, Z Yi, AA Heidari, H Chen
 
      **Neural Networks**, (Under Review)
-    
+
+19. **IKUN: A mean-field game theoretic KD-tree density guided mechanism for swarm optimization**
+
+    JJ Lian, K Ouyang...
+
+    **Swarm and Evolutionary Computation**, (Under Review)
 
 20. **❶ Why Flow Matching is Particle Swarm Optimization?**
 
