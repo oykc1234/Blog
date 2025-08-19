@@ -142,6 +142,11 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
     **Neural Networks**, (Under Review)
 
+21. **Wave Optics Optimizer: A novel meta-heuristic algorithm for engineering optimization**
+
+    S Gu, ..., K Ouyang ...
+
+    **Communications In Nonlinear Science And Numerical Simulation**, (Under Review)
  
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
