@@ -86,7 +86,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 
     **K Ouyang**, D Wei, S Fu, S Gu, X Sha, J Yu, J Yu, AA Heidar, Z Cai, H Chen
 
-    **Results in Engineering**, (Accept)
+    **Results in Engineering**
 
 13. **✉ Newton Downhill Optimizer for Global Optimization with Application to Breast Cancer Feature Selection**
  
