@@ -11,6 +11,8 @@ Specifically, these three adaptive mechanisms correspond to three distinct resea
 # Research Interests: 
 Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcement Learning
 
+<img width="1227" height="676" alt="image" src="https://github.com/user-attachments/assets/d066e548-30bb-4701-84a9-ef97a685b152" />
+
 # Publication:
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)  
