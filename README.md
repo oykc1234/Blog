@@ -62,7 +62,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
  
     **K Ouyang‡**, S Zhang‡, S Liu‡, J Tian, Y Li, H Tong, H Bai, YC Hu, WH Wang
      
-    **AI for Science** (Under Review)
+    **Nature Machine Intelligence** (Under Review)
     
 9.  **❶ Rethinking Over-Smoothing in Graph Neural Networks: A Perspective from Anderson Localization**
 
