@@ -1,5 +1,7 @@
 ## Data-Driven Complex Adaptive Systems for Decision-Making — Kaichen Ouyang
 
+<img width="1227" height="676" alt="image" src="https://github.com/user-attachments/assets/d066e548-30bb-4701-84a9-ef97a685b152" />
+
 In nature, biological evolution, physical dynamics, and learning behavior form three interconnected adaptive mechanisms: Biological evolution & swarm intelligence drive adaptation through both genetic variation/natural selection and emergent collective behaviors; physical dynamics govern nonequilibrium systems' self-organization toward equilibrium states (e.g., thermodynamic entropy increase and dissipative structures); while learning enables individual behavioral adaptation through experience and interaction with the environment. This includes the reward hypothesis, where behavior is adapted based on the feedback received from actions, allowing individuals to optimize their strategies to achieve long-term goals. Additionally, neural networks model the brain's learning processes by adjusting the connections between neurons, similar to synaptic plasticity, improving decision-making through experience. Together, these mechanisms shape complex adaptive behaviors across scales.
 
 | Biological System | Physical System | Learning System |
@@ -169,8 +171,6 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
 </div>
 
 <sub>❶ First author | ✉ Corresponding author | [Full Publications](https://scholar.google.com/citations?user=mbXU6jIAAAAJ&hl=en)</sub>
-
-<img width="1227" height="676" alt="image" src="https://github.com/user-attachments/assets/d066e548-30bb-4701-84a9-ef97a685b152" />
 
 **I believe that a solid foundation in mathematics and physics is essential for conducting advanced research in artificial intelligence.**
 
