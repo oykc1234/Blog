@@ -40,7 +40,7 @@ Evolutionary Computation | Statistical Physics | Machine Learning | Reinforcemen
     
     **arXiv preprint** arXiv:2412.17629, 2024  
 
-5.  **Study of nonequilibrium phase transitions mechanisms**
+5.  **Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors**
 
     YQ Wang, C Xu, ML Fang, TZ Li, LW Zhang, DS Wei, K Ouyang, ...
     
