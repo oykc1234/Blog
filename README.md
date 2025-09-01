@@ -104,7 +104,7 @@ Artificial Intelligence | Cognitive Science | Complex System
 
     **K Ouyang**, ...
 
-    **Journal of Advanced Research**, (Under Review)
+    **Journal of Advanced Research**
 
 16. **✉ Multi-Objective Mobile Damped Wave Algorithm (MOMDWA): A Novel Approach For Quantum System Control**
 
