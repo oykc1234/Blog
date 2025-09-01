@@ -102,7 +102,7 @@ Artificial Intelligence | Cognitive Science | Complex System
 
 15. **❶ Beaver Behavior Optimizer: A Novel Metaheuristic Algorithm for Solar PV Parameter Identification and Engineering Problems**
 
-    **K Ouyang**, ...
+    **K Ouyang**, D Wei, X Sha, J Yu, Y Zhao, M Qiu, S Fu, AA Heidar, H Chen
 
     **Journal of Advanced Research**
 
