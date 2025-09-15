@@ -11,10 +11,10 @@ Specifically, these three adaptive mechanisms correspond to three distinct resea
 ## Research Interests: 
 Artificial Intelligence | Cognitive Science | Complex System 
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/621ad91a-c85c-4a58-b979-22532740952c" height="150" style="flex: 1; min-width: 30%; margin: 5px;">
-  <img src="https://github.com/user-attachments/assets/fceb4297-9f13-4c1f-8eae-6bdd01b1c25a" height="150" style="flex: 1; min-width: 30%; margin: 5px;">
-  <img src="https://github.com/user-attachments/assets/9f306bb7-b502-4956-a17c-ca3f8acac314" height="150" style="flex: 1; min-width: 30%; margin: 5px;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/621ad91a-c85c-4a58-b979-22532740952c" style="width: 32%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/fceb4297-9f13-4c1f-8eae-6bdd01b1c25a" style="width: 32%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/9f306bb7-b502-4956-a17c-ca3f8acac314" style="width: 32%; height: auto;">
 </div>
 
 
