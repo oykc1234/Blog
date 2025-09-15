@@ -13,7 +13,7 @@ Artificial Intelligence | Cognitive Science | Complex System
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github.com/user-attachments/assets/1ff00291-698f-4f55-8a7e-7eddd4c04186" style="width: 32%; height: auto;">
   <img src="https://github.com/user-attachments/assets/b79ac78c-a769-458d-8256-3a0076f97c80" style="width: 32%; height: auto;">
-  <img src="https://github.com/user-attachments/assets/9f306bb7-b502-4956-a17c-ca3f8acac314" style="width: 32%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/a465313a-316f-479a-a394-201a60d59f85" style="width: 32%; height: auto;">
 </div>
 
 
