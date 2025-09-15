@@ -8,8 +8,15 @@ In nature, biological evolution, physical dynamics, and learning behavior form t
 
 Specifically, these three adaptive mechanisms correspond to three distinct research domains: (1) evolutionary computation simultaneously models both biological evolution (through population-based genetic optimization) and swarm intelligence behaviors (via emergent agent coordination mechanisms), thereby capturing two fundamental layers of biological adaptation. (2) statistical physics formally characterizes self-organization via disorder-to-order transitions mathematically equivalent to physical phase transitions; and (3) machine learning explicitly emulates biological learning through both neural network training grounded in synaptic plasticity principles and reinforcement learning, where behaviors are adapted based on feedback from interactions with the environment, optimizing strategies to maximize long-term rewards. However, contemporary artificial intelligence has predominantly focused on intelligence paradigms centered around human intelligence (e.g., neural networks simulating cortical information processing), while systematically neglecting two equally fundamental adaptive mechanisms in nature: (1) evolutionary and swarm intelligence in biological systems, and (2) self-organizing intelligence in physical systems. I contend that advancing artificial intelligence requires moving beyond this anthropocentric paradigm to incorporate these more universal forms of natural intelligence. These systems demonstrate unique elegance through their inherent adaptive mechanisms. We are perpetually inspired by nature's ingenuity manifested in such self-organizing intelligence. I maintain that natural adaptation consistently surpasses artificial intervention in efficacy. My primary research therefore focuses on constructing data-driven frameworks to understand and harness these systems for enhanced decision-making.
 
-# Research Interests: 
+## Research Interests: 
 Artificial Intelligence | Cognitive Science | Complex System 
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/621ad91a-c85c-4a58-b979-22532740952c" height="150" style="flex: 1; min-width: 30%; margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/fceb4297-9f13-4c1f-8eae-6bdd01b1c25a" height="150" style="flex: 1; min-width: 30%; margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/9f306bb7-b502-4956-a17c-ca3f8acac314" height="150" style="flex: 1; min-width: 30%; margin: 5px;">
+</div>
+
 
 # Publication:
 
