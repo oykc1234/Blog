@@ -1,7 +1,6 @@
 ## Data-Driven Complex Adaptive Systems for Decision-Making — Kaichen Ouyang
 
 
-
 In nature, biological evolution, physical dynamics, and learning behavior form three interconnected adaptive mechanisms: Biological evolution & swarm intelligence drive adaptation through both genetic variation/natural selection and emergent collective behaviors; physical dynamics govern nonequilibrium systems' self-organization toward equilibrium states (e.g., thermodynamic entropy increase and dissipative structures); while learning enables individual behavioral adaptation through experience and interaction with the environment. This includes the reward hypothesis, where behavior is adapted based on the feedback received from actions, allowing individuals to optimize their strategies to achieve long-term goals. Additionally, neural networks model the brain's learning processes by adjusting the connections between neurons, similar to synaptic plasticity, improving decision-making through experience. Together, these mechanisms shape complex adaptive behaviors across scales.
 
 <img width="1269" height="707" alt="image" src="https://github.com/user-attachments/assets/42b57c67-f950-4340-b89e-16b885bf78b8" />
@@ -12,7 +11,7 @@ Specifically, these three adaptive mechanisms correspond to three distinct resea
 Artificial Intelligence | Cognitive Science | Complex System 
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/621ad91a-c85c-4a58-b979-22532740952c" style="width: 32%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/1ff00291-698f-4f55-8a7e-7eddd4c04186" style="width: 32%; height: auto;">
   <img src="https://github.com/user-attachments/assets/fceb4297-9f13-4c1f-8eae-6bdd01b1c25a" style="width: 32%; height: auto;">
   <img src="https://github.com/user-attachments/assets/9f306bb7-b502-4956-a17c-ca3f8acac314" style="width: 32%; height: auto;">
 </div>
