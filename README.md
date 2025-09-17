@@ -154,7 +154,7 @@ Artificial Intelligence | Cognitive Science | Complex System
 
     S Gu, ..., K Ouyang ...
 
-    **Communications In Nonlinear Science And Numerical Simulation**, (Under Review)
+    **Communications In Nonlinear Science And Numerical Simulation**
  
 ## Publication Gallery
 <div style="overflow-x: auto; white-space: nowrap;">
