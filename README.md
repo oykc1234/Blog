@@ -174,7 +174,8 @@ Artificial Intelligence | Complex Systems | Mathematics | Physics
   <img src="https://github.com/user-attachments/assets/99ba3ef1-d28a-4b56-acdb-4dc16bb24d00" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/ac5371b8-9f2c-4135-8dcf-d1debe407a87" height="150" style="display: inline-block;">
   <img src="https://github.com/user-attachments/assets/3f75a804-c354-4eef-be98-4ea294f4dbdd" height="150" style="display: inline-block;">
-  <img src="https://github.com/user-attachments/assets/c496ad80-76c2-4ffe-84ff-4a6ad4565aa8" height="150" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/89ec4928-27b8-47ef-a559-646fe4421757" height="150" style="display: inline-block;">
+
 
 </div>
 
